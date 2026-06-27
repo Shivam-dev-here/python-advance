@@ -1,0 +1,5 @@
+2026-06-27 17-11-10 - root - DEBUG - Successful
+2026-06-27 17-11-10 - root - INFO - System working normal
+2026-06-27 17-11-10 - root - WARNING - value expected a list
+2026-06-27 17-11-10 - root - ERROR - missing a ','
+2026-06-27 17-11-10 - root - CRITICAL - function is undefined
