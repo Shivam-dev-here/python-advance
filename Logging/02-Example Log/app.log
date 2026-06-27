@@ -1,0 +1,7 @@
+2026-06-27 17-25-04 - root - DEBUG - Successful
+2026-06-27 17-25-04 - root - INFO - System working normal
+2026-06-27 17-25-04 - root - WARNING - value expected a list
+2026-06-27 17-25-04 - root - ERROR - missing a ','
+2026-06-27 17-25-04 - root - CRITICAL - function is undefined
+2026-06-27 17-25-04 - root - DEBUG - CALL: Fuction is being call
+2026-06-27 17-25-04 - root - DEBUG - OPR: Multiplication is next opr 
