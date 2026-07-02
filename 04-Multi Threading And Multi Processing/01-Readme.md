@@ -21,6 +21,8 @@ Description
 	1. Single Threaded Process: one memory space
 	2. Multi  Threaded Process: many memory space
 
+<img src="assets/single-vs-multiple-thread-process.png" width="900" height="440">
+
 ---
 #### Memory Space
 
